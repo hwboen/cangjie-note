@@ -15,3 +15,5 @@
 仓颉的应用启动时长在十毫秒级别，空载内存 1MB 级别，嵌入式空载内存小于 1MB。
 
 [上一篇： 卓越性能](./5-outstanding-performance.md)
+
+[下一篇： 敏捷拓展](./7-extension.md)
