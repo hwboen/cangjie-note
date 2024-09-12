@@ -92,3 +92,5 @@ enum 和 interface 只支持定义成员函数，不支持定义成员变量。
     a + b
   }
 ```
+
+[下一篇：基本数据类型](./primitive-types.md)
