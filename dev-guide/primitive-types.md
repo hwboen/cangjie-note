@@ -187,3 +187,5 @@ print(() == ()) // true
 该类型没有任何值，Nothing 类型是所有类型的子类型。Nothing 在仓颉中的作用主要是控制流程。break,continue,return,throw 表达式的类型都是 Nothing 类型，程序在执行到这些表达式后，其相同作用域之后的代码不会执行。目前编译器还不允许显示的使用 Nothing 类型。
 
 [上一篇：基本概念](./basic.md)
+
+[下一票：函数](./func.md)
