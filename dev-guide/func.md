@@ -375,3 +375,5 @@ const a = Int(64) // Error
 对于复合 const 表达式，例如函数表达式，`if else`表达式，要求它们的子表达式都是 const 表达式。
 
 [上一篇：基本类型](./primitive-types.md)
+
+[下一篇：结构类型](./struct.md)
