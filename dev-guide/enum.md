@@ -100,3 +100,5 @@ let none = None<Int64>
 ```
 
 [上一篇：结构类型](./struct.md)
+
+[下一篇：模式匹配](./match.md)
