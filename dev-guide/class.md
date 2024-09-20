@@ -172,3 +172,5 @@ class Child <: Father {
 ```
 
 [上一篇：模式匹配](./match.md)
+
+[下一篇：接口](./interface.md)
