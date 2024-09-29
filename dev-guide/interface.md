@@ -47,3 +47,5 @@ interface Any {}
 ```
 
 [上一篇：类](./class.md)
+
+[下一篇：属性](./prop.md)
