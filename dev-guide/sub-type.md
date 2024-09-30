@@ -44,3 +44,5 @@ test(parentF) // Ok
 - `class <: Object`，Object 是所有 class 类型的父类型
 
 [上一篇：属性](./prop.md)
+
+[下一篇：类型转换](./is-as.md)
