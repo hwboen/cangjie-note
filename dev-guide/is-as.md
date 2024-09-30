@@ -41,3 +41,5 @@ let s = 1 as String // None
 ```
 
 [上一篇：子类型关系](./sub-type.md)
+
+[下一篇：范型](./generic.md)
